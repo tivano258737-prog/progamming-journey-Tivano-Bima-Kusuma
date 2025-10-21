@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Documents\Tivano C#\Kalkulator Asik Banget\bin\Debug\Kalkulator Asik Banget.exe.config
+C:\Users\LENOVO\Documents\Tivano C#\Kalkulator Asik Banget\bin\Debug\Kalkulator Asik Banget.exe
+C:\Users\LENOVO\Documents\Tivano C#\Kalkulator Asik Banget\bin\Debug\Kalkulator Asik Banget.pdb
+C:\Users\LENOVO\Documents\Tivano C#\Kalkulator Asik Banget\obj\Debug\Kalkulator Asik Banget.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Tivano C#\Kalkulator Asik Banget\obj\Debug\Kalkulator Asik Banget.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Tivano C#\Kalkulator Asik Banget\obj\Debug\Kalkulator Asik Banget.exe
+C:\Users\LENOVO\Documents\Tivano C#\Kalkulator Asik Banget\obj\Debug\Kalkulator Asik Banget.pdb
+C:\Users\LENOVO\Documents\Tivano C#\Kalkulator Asik Banget\obj\Debug\Kalkulator Asik Banget.exe.config
