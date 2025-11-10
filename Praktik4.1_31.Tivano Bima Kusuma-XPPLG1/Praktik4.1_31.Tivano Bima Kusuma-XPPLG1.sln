@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Praktik4.1_31.Tivano Bima Kusuma-XPPLG1", "Praktik4.1_31.Tivano Bima Kusuma-XPPLG1.csproj", "{469B96A7-A4A8-4F95-AE76-5325874923D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{469B96A7-A4A8-4F95-AE76-5325874923D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{469B96A7-A4A8-4F95-AE76-5325874923D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{469B96A7-A4A8-4F95-AE76-5325874923D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{469B96A7-A4A8-4F95-AE76-5325874923D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2EDD5E3B-D0E6-4C92-85C2-58F9AF454C6E}
+	EndGlobalSection
+EndGlobal

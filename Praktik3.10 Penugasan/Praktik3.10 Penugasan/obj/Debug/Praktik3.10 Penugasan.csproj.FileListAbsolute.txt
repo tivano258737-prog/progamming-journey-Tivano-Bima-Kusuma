@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.10 Penugasan\Praktik3.10 Penugasan\obj\Debug\Praktik3.10 Penugasan.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.10 Penugasan\Praktik3.10 Penugasan\obj\Debug\Praktik3.10 Penugasan.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.10 Penugasan\Praktik3.10 Penugasan\bin\Debug\Praktik3.10 Penugasan.exe.config
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.10 Penugasan\Praktik3.10 Penugasan\bin\Debug\Praktik3.10 Penugasan.exe
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.10 Penugasan\Praktik3.10 Penugasan\bin\Debug\Praktik3.10 Penugasan.pdb
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.10 Penugasan\Praktik3.10 Penugasan\obj\Debug\Praktik3.10 Penugasan.exe
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.10 Penugasan\Praktik3.10 Penugasan\obj\Debug\Praktik3.10 Penugasan.pdb

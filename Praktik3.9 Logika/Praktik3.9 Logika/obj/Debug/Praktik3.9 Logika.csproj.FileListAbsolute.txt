@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.9 Logika\Praktik3.9 Logika\bin\Debug\Praktik3.9 Logika.exe.config
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.9 Logika\Praktik3.9 Logika\bin\Debug\Praktik3.9 Logika.exe
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.9 Logika\Praktik3.9 Logika\bin\Debug\Praktik3.9 Logika.pdb
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.9 Logika\Praktik3.9 Logika\obj\Debug\Praktik3.9 Logika.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.9 Logika\Praktik3.9 Logika\obj\Debug\Praktik3.9 Logika.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.9 Logika\Praktik3.9 Logika\obj\Debug\Praktik3.9 Logika.exe
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.9 Logika\Praktik3.9 Logika\obj\Debug\Praktik3.9 Logika.pdb
