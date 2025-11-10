@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Tivano C#\Praktik5.2_31.Tivano Bima Kusuma-XPPLG 1\bin\Debug\Praktik5.2_31.Tivano Bima Kusuma-XPPLG 1.exe.config
+C:\Users\LENOVO\Documents\Tivano C#\Praktik5.2_31.Tivano Bima Kusuma-XPPLG 1\bin\Debug\Praktik5.2_31.Tivano Bima Kusuma-XPPLG 1.exe
+C:\Users\LENOVO\Documents\Tivano C#\Praktik5.2_31.Tivano Bima Kusuma-XPPLG 1\bin\Debug\Praktik5.2_31.Tivano Bima Kusuma-XPPLG 1.pdb
+C:\Users\LENOVO\Documents\Tivano C#\Praktik5.2_31.Tivano Bima Kusuma-XPPLG 1\obj\Debug\Praktik5.2_31.Tivano Bima Kusuma-XPPLG 1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Tivano C#\Praktik5.2_31.Tivano Bima Kusuma-XPPLG 1\obj\Debug\Praktik5.2_31.Tivano Bima Kusuma-XPPLG 1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Tivano C#\Praktik5.2_31.Tivano Bima Kusuma-XPPLG 1\obj\Debug\Praktik5.2_31.Tivano Bima Kusuma-XPPLG 1.exe
+C:\Users\LENOVO\Documents\Tivano C#\Praktik5.2_31.Tivano Bima Kusuma-XPPLG 1\obj\Debug\Praktik5.2_31.Tivano Bima Kusuma-XPPLG 1.pdb
