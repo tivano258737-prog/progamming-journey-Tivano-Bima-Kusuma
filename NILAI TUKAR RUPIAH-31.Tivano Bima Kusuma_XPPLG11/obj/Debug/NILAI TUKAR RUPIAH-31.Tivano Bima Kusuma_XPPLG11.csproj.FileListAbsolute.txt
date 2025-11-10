@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Tivano C#\TUGAS C#_ Tivano Bima Kusuma X PPLG 1\NILAI TUKAR RUPIAH-31.Tivano Bima Kusuma_XPPLG11\bin\Debug\NILAI TUKAR RUPIAH-31.Tivano Bima Kusuma_XPPLG11.exe.config
+C:\Users\LENOVO\Documents\Tivano C#\TUGAS C#_ Tivano Bima Kusuma X PPLG 1\NILAI TUKAR RUPIAH-31.Tivano Bima Kusuma_XPPLG11\bin\Debug\NILAI TUKAR RUPIAH-31.Tivano Bima Kusuma_XPPLG11.exe
+C:\Users\LENOVO\Documents\Tivano C#\TUGAS C#_ Tivano Bima Kusuma X PPLG 1\NILAI TUKAR RUPIAH-31.Tivano Bima Kusuma_XPPLG11\bin\Debug\NILAI TUKAR RUPIAH-31.Tivano Bima Kusuma_XPPLG11.pdb
+C:\Users\LENOVO\Documents\Tivano C#\TUGAS C#_ Tivano Bima Kusuma X PPLG 1\NILAI TUKAR RUPIAH-31.Tivano Bima Kusuma_XPPLG11\obj\Debug\NILAI TUKAR RUPIAH-31.Tivano Bima Kusuma_XPPLG11.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Tivano C#\TUGAS C#_ Tivano Bima Kusuma X PPLG 1\NILAI TUKAR RUPIAH-31.Tivano Bima Kusuma_XPPLG11\obj\Debug\NILAI TUKAR RUPIAH-31.Tivano Bima Kusuma_XPPLG11.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Tivano C#\TUGAS C#_ Tivano Bima Kusuma X PPLG 1\NILAI TUKAR RUPIAH-31.Tivano Bima Kusuma_XPPLG11\obj\Debug\NILAI TUKAR RUPIAH-31.Tivano Bima Kusuma_XPPLG11.exe
+C:\Users\LENOVO\Documents\Tivano C#\TUGAS C#_ Tivano Bima Kusuma X PPLG 1\NILAI TUKAR RUPIAH-31.Tivano Bima Kusuma_XPPLG11\obj\Debug\NILAI TUKAR RUPIAH-31.Tivano Bima Kusuma_XPPLG11.pdb
