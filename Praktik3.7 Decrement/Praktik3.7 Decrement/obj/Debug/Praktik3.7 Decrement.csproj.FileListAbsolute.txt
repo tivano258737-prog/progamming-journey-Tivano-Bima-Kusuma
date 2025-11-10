@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.7 Decrement\Praktik3.7 Decrement\bin\Debug\Praktik3.7 Decrement.exe.config
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.7 Decrement\Praktik3.7 Decrement\bin\Debug\Praktik3.7 Decrement.exe
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.7 Decrement\Praktik3.7 Decrement\bin\Debug\Praktik3.7 Decrement.pdb
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.7 Decrement\Praktik3.7 Decrement\obj\Debug\Praktik3.7 Decrement.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.7 Decrement\Praktik3.7 Decrement\obj\Debug\Praktik3.7 Decrement.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.7 Decrement\Praktik3.7 Decrement\obj\Debug\Praktik3.7 Decrement.exe
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.7 Decrement\Praktik3.7 Decrement\obj\Debug\Praktik3.7 Decrement.pdb

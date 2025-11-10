@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.2 Pengurangan\Praktik3.2 Pengurangan\bin\Debug\Praktik3.2 Pengurangan.exe.config
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.2 Pengurangan\Praktik3.2 Pengurangan\bin\Debug\Praktik3.2 Pengurangan.exe
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.2 Pengurangan\Praktik3.2 Pengurangan\bin\Debug\Praktik3.2 Pengurangan.pdb
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.2 Pengurangan\Praktik3.2 Pengurangan\obj\Debug\Praktik3.2 Pengurangan.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.2 Pengurangan\Praktik3.2 Pengurangan\obj\Debug\Praktik3.2 Pengurangan.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.2 Pengurangan\Praktik3.2 Pengurangan\obj\Debug\Praktik3.2 Pengurangan.exe
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.2 Pengurangan\Praktik3.2 Pengurangan\obj\Debug\Praktik3.2 Pengurangan.pdb

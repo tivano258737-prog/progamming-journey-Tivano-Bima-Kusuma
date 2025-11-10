@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.6 Increment\Praktik3.6 Increment\bin\Debug\Praktik3.6 Increment.exe.config
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.6 Increment\Praktik3.6 Increment\bin\Debug\Praktik3.6 Increment.exe
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.6 Increment\Praktik3.6 Increment\bin\Debug\Praktik3.6 Increment.pdb
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.6 Increment\Praktik3.6 Increment\obj\Debug\Praktik3.6 Increment.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.6 Increment\Praktik3.6 Increment\obj\Debug\Praktik3.6 Increment.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.6 Increment\Praktik3.6 Increment\obj\Debug\Praktik3.6 Increment.exe
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.6 Increment\Praktik3.6 Increment\obj\Debug\Praktik3.6 Increment.pdb

@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.5 Sisa Bagi\Praktik3.5 Sisa Bagi\bin\Debug\Praktik3.5 Sisa Bagi.exe.config
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.5 Sisa Bagi\Praktik3.5 Sisa Bagi\bin\Debug\Praktik3.5 Sisa Bagi.exe
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.5 Sisa Bagi\Praktik3.5 Sisa Bagi\bin\Debug\Praktik3.5 Sisa Bagi.pdb
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.5 Sisa Bagi\Praktik3.5 Sisa Bagi\obj\Debug\Praktik3.5 Sisa Bagi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.5 Sisa Bagi\Praktik3.5 Sisa Bagi\obj\Debug\Praktik3.5 Sisa Bagi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.5 Sisa Bagi\Praktik3.5 Sisa Bagi\obj\Debug\Praktik3.5 Sisa Bagi.exe
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.5 Sisa Bagi\Praktik3.5 Sisa Bagi\obj\Debug\Praktik3.5 Sisa Bagi.pdb

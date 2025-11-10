@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.3\Praktik3.3\bin\Debug\Praktik3.3.exe.config
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.3\Praktik3.3\bin\Debug\Praktik3.3.exe
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.3\Praktik3.3\bin\Debug\Praktik3.3.pdb
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.3\Praktik3.3\obj\Debug\Praktik3.3.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.3\Praktik3.3\obj\Debug\Praktik3.3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.3\Praktik3.3\obj\Debug\Praktik3.3.exe
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.3\Praktik3.3\obj\Debug\Praktik3.3.pdb
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.3\Praktik3.3\obj\Debug\Praktik3.3.exe.config

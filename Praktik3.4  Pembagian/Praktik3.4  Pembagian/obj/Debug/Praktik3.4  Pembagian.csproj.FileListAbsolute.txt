@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.4  Pembagian\Praktik3.4  Pembagian\obj\Debug\Praktik3.4  Pembagian.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.4  Pembagian\Praktik3.4  Pembagian\obj\Debug\Praktik3.4  Pembagian.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.4  Pembagian\Praktik3.4  Pembagian\bin\Debug\Praktik3.4  Pembagian.exe.config
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.4  Pembagian\Praktik3.4  Pembagian\bin\Debug\Praktik3.4  Pembagian.exe
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.4  Pembagian\Praktik3.4  Pembagian\bin\Debug\Praktik3.4  Pembagian.pdb
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.4  Pembagian\Praktik3.4  Pembagian\obj\Debug\Praktik3.4  Pembagian.exe
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.4  Pembagian\Praktik3.4  Pembagian\obj\Debug\Praktik3.4  Pembagian.pdb
