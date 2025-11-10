@@ -1,0 +1,2 @@
+C:\Users\LENOVO\Documents\Tivano C#\Praktik5.6_31.Tivano Bima Kusuma-XPPLG1\obj\Debug\Praktik5.6_31.Tivano Bima Kusuma-XPPLG1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Tivano C#\Praktik5.6_31.Tivano Bima Kusuma-XPPLG1\obj\Debug\Praktik5.6_31.Tivano Bima Kusuma-XPPLG1.csproj.CoreCompileInputs.cache
