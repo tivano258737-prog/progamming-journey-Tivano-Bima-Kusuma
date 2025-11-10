@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Tivano C#\Tugas.1 modul 5, _31.Tivano Bima Kusuma_XPPLG 1\bin\Debug\Tugas.1 modul 5, _31.Tivano Bima Kusuma_XPPLG 1.exe.config
+C:\Users\LENOVO\Documents\Tivano C#\Tugas.1 modul 5, _31.Tivano Bima Kusuma_XPPLG 1\bin\Debug\Tugas.1 modul 5, _31.Tivano Bima Kusuma_XPPLG 1.exe
+C:\Users\LENOVO\Documents\Tivano C#\Tugas.1 modul 5, _31.Tivano Bima Kusuma_XPPLG 1\bin\Debug\Tugas.1 modul 5, _31.Tivano Bima Kusuma_XPPLG 1.pdb
+C:\Users\LENOVO\Documents\Tivano C#\Tugas.1 modul 5, _31.Tivano Bima Kusuma_XPPLG 1\obj\Debug\Tugas.1 modul 5, _31.Tivano Bima Kusuma_XPPLG 1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Tivano C#\Tugas.1 modul 5, _31.Tivano Bima Kusuma_XPPLG 1\obj\Debug\Tugas.1 modul 5, _31.Tivano Bima Kusuma_XPPLG 1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Tivano C#\Tugas.1 modul 5, _31.Tivano Bima Kusuma_XPPLG 1\obj\Debug\Tugas.1 modul 5, _31.Tivano Bima Kusuma_XPPLG 1.exe
+C:\Users\LENOVO\Documents\Tivano C#\Tugas.1 modul 5, _31.Tivano Bima Kusuma_XPPLG 1\obj\Debug\Tugas.1 modul 5, _31.Tivano Bima Kusuma_XPPLG 1.pdb
