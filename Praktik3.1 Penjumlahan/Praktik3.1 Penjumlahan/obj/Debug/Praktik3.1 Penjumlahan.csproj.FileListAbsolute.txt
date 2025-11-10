@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.1 Penjumlahan\Praktik3.1 Penjumlahan\bin\Debug\Praktik3.1 Penjumlahan.exe.config
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.1 Penjumlahan\Praktik3.1 Penjumlahan\bin\Debug\Praktik3.1 Penjumlahan.exe
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.1 Penjumlahan\Praktik3.1 Penjumlahan\bin\Debug\Praktik3.1 Penjumlahan.pdb
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.1 Penjumlahan\Praktik3.1 Penjumlahan\obj\Debug\Praktik3.1 Penjumlahan.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.1 Penjumlahan\Praktik3.1 Penjumlahan\obj\Debug\Praktik3.1 Penjumlahan.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.1 Penjumlahan\Praktik3.1 Penjumlahan\obj\Debug\Praktik3.1 Penjumlahan.exe
+C:\Users\LENOVO\Documents\Tivano C#\Praktik3.1 Penjumlahan\Praktik3.1 Penjumlahan\obj\Debug\Praktik3.1 Penjumlahan.pdb
