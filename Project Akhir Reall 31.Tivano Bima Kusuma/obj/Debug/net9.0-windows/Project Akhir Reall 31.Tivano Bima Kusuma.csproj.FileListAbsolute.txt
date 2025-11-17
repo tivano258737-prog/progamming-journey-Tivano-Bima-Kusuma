@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Documents\Tivano C#\Project Akhir Reall 31.Tivano Bima Kusuma\bin\Debug\net9.0-windows\Project Akhir Reall 31.Tivano Bima Kusuma.exe
+C:\Users\LENOVO\Documents\Tivano C#\Project Akhir Reall 31.Tivano Bima Kusuma\bin\Debug\net9.0-windows\Project Akhir Reall 31.Tivano Bima Kusuma.deps.json
+C:\Users\LENOVO\Documents\Tivano C#\Project Akhir Reall 31.Tivano Bima Kusuma\bin\Debug\net9.0-windows\Project Akhir Reall 31.Tivano Bima Kusuma.runtimeconfig.json
+C:\Users\LENOVO\Documents\Tivano C#\Project Akhir Reall 31.Tivano Bima Kusuma\bin\Debug\net9.0-windows\Project Akhir Reall 31.Tivano Bima Kusuma.dll
+C:\Users\LENOVO\Documents\Tivano C#\Project Akhir Reall 31.Tivano Bima Kusuma\bin\Debug\net9.0-windows\Project Akhir Reall 31.Tivano Bima Kusuma.pdb
+C:\Users\LENOVO\Documents\Tivano C#\Project Akhir Reall 31.Tivano Bima Kusuma\obj\Debug\net9.0-windows\Project_Akhir_Reall_31.Tivano_Bima_Kusuma.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Tivano C#\Project Akhir Reall 31.Tivano Bima Kusuma\obj\Debug\net9.0-windows\Project Akhir Reall 31.Tivano Bima Kusuma.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\Tivano C#\Project Akhir Reall 31.Tivano Bima Kusuma\obj\Debug\net9.0-windows\Project Akhir Reall 31.Tivano Bima Kusuma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Tivano C#\Project Akhir Reall 31.Tivano Bima Kusuma\obj\Debug\net9.0-windows\Project Akhir Reall 31.Tivano Bima Kusuma.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Tivano C#\Project Akhir Reall 31.Tivano Bima Kusuma\obj\Debug\net9.0-windows\Project Akhir Reall 31.Tivano Bima Kusuma.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Tivano C#\Project Akhir Reall 31.Tivano Bima Kusuma\obj\Debug\net9.0-windows\Project Akhir Reall 31.Tivano Bima Kusuma.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Tivano C#\Project Akhir Reall 31.Tivano Bima Kusuma\obj\Debug\net9.0-windows\Project Akhir Reall 31.Tivano Bima Kusuma.dll
+C:\Users\LENOVO\Documents\Tivano C#\Project Akhir Reall 31.Tivano Bima Kusuma\obj\Debug\net9.0-windows\refint\Project Akhir Reall 31.Tivano Bima Kusuma.dll
+C:\Users\LENOVO\Documents\Tivano C#\Project Akhir Reall 31.Tivano Bima Kusuma\obj\Debug\net9.0-windows\Project Akhir Reall 31.Tivano Bima Kusuma.pdb
+C:\Users\LENOVO\Documents\Tivano C#\Project Akhir Reall 31.Tivano Bima Kusuma\obj\Debug\net9.0-windows\Project Akhir Reall 31.Tivano Bima Kusuma.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Tivano C#\Project Akhir Reall 31.Tivano Bima Kusuma\obj\Debug\net9.0-windows\ref\Project Akhir Reall 31.Tivano Bima Kusuma.dll
+C:\Users\LENOVO\Documents\Tivano C#\Project Akhir Reall 31.Tivano Bima Kusuma\obj\Debug\net9.0-windows\Project_Akhir_Reall_31.Tivano_Bima_Kusuma.button3.resources
