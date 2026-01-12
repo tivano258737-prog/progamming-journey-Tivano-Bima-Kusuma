@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TUGAS WIBSITE</title>
+</head>
+<body>
+    <!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profil Sekolah - SMA Negeri 1</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+        }
+
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 1rem 0;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        nav {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+
+        nav ul {
+            list-style: none;
+            display: flex;
+            gap: 2rem;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            transition: opacity 0.3s;
+        }
+
+        nav a:hover {
+            opacity: 0.8;
+        }
+
+        .hero {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-align: center;
+            padding: 4rem 20px;
+        }
+
+        .hero h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .hero p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 3rem 20px;
+        }
+
+        .section {
+            margin-bottom: 3rem;
+        }
+
+        .section h2 {
+            color: #667eea;
+            margin-bottom: 1.5rem;
+            font-size: 2rem;
+            border-bottom: 3px solid #667eea;
+            padding-bottom: 0.5rem;
+        }
+
+        .cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            margin-top: 2rem;
+        }
+
+        .card {
+            background: white;
+            padding: 2rem;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: transform 0.3s;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+        }
+
+        .card h3 {
+            color: #764ba2;
+            margin-bottom: 1rem;
+        }
+
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 2rem 20px;
+            margin-top: 3rem;
+        }
+
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .footer-links {
+            margin-top: 1rem;
+        }
+
+        .footer-links a {
+            color: #667eea;
+            text-decoration: none;
+            margin: 0 1rem;
+        }
+
+        .btn {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 0.8rem 2rem;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background 0.3s;
+            margin-top: 1rem;
+        }
+
+        .btn:hover {
+            background: #764ba2;
+        }
+
+        @media (max-width: 768px) {
+            nav ul {
+                flex-direction: column;
+                gap: 1rem;
+            }
+
+            .hero h1 {
+                font-size: 2rem;
+            }
+
+            .cards {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">SMA Negeri 1</div>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="visi.html">Visi</a></li>
+                <li><a href="misi.html">Misi</a></li>
+                <li><a href="ekskul.html">Ekstrakurikuler</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="hero">
+        <h1>Selamat Datang di SMA Negeri 1</h1>
+        <p>Membentuk Generasi Cerdas, Berkarakter, dan Berprestasi</p>
+    </div>
+
+    <div class="container">
+        <section class="section">
+            <h2>Tentang Kami</h2>
+            <p>SMA Negeri 1 adalah lembaga pendidikan menengah atas yang berkomitmen untuk memberikan pendidikan berkualitas tinggi. Kami fokus pada pengembangan akademik, karakter, dan keterampilan siswa untuk mempersiapkan mereka menghadapi tantangan masa depan.</p>
+        </section>
+
+        <section class="section">
+            <h2>Keunggulan Sekolah</h2>
+            <div class="cards">
+                <div class="card">
+                    <h3>📚 Fasilitas Lengkap</h3>
+                    <p>Dilengkapi dengan laboratorium modern, perpustakaan digital, dan ruang kelas yang nyaman untuk mendukung proses pembelajaran.</p>
+                </div>
+                <div class="card">
+                    <h3>👨‍🏫 Tenaga Pengajar Profesional</h3>
+                    <p>Guru-guru berpengalaman dan bersertifikasi yang berdedikasi untuk memberikan pendidikan terbaik.</p>
+                </div>
+                <div class="card">
+                    <h3>🏆 Prestasi Gemilang</h3>
+                    <p>Siswa kami telah meraih berbagai prestasi di tingkat regional dan nasional dalam bidang akademik maupun non-akademik.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>Link Pendidikan</h2>
+            <p>Kunjungi website resmi Kementerian Pendidikan untuk informasi lebih lanjut tentang pendidikan di Indonesia:</p>
+            <a href="https://www.kemdikbud.go.id" target="_blank" rel="noopener" class="btn">Website Kemendikbud</a>
+        </section>
+
+        <section class="section">
+            <h2>Informasi Kontak</h2>
+            <p><strong>Alamat:</strong> Jl. Pendidikan No. 123, Kota</p>
+            <p><strong>Telepon:</strong> (012) 1234-5678</p>
+            <p><strong>Email:</strong> info@sman1.sch.id</p>
+        </section>
+    </div>
+
+    <footer id="footer">
+        <div class="footer-content">
+            <p>&copy; 2024 SMA Negeri 1. All Rights Reserved.</p>
+            <div class="footer-links">
+                <a href="#footer">Loncat ke Footer</a>
+                <a href="index.html">Kembali ke Atas</a>
+            </div>
+            <p style="margin-top: 1rem; font-size: 0.9rem;">Dikembangkan dengan ❤️ untuk pendidikan yang lebih baik</p>
+        </div>
+    </footer>
+</body>
+</html>
+</body>
+</html>
