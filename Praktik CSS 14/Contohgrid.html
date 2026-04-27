@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contoh CSS Grid</title>
+
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 20px;
+            background-color: white;
+        }
+
+        h2 {
+            margin: 40px;
+        }
+
+        .grid-container {
+            display: grid;
+            gap: 10px;
+            background: white;
+            padding: 10px;
+            border: 1px solid #ccc;
+        }
+
+        .grid-item {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            font-size: 20px;
+            border-radius: 8px;
+        }
+
+        /* Contoh 1 : Grid sederhana 2 kolom */
+        .contoh1 {
+            grid-template-columns: 1fr 1fr;
+        }
+
+         /* Contoh 2 : Grid 3 kolom ukuran sama*/
+        .contoh2 {
+            grid-template-columns: repeat(3, 1fr);
+        }
+
+         /* Contoh 3 : Grid dengan lebar kolom berbeda */
+        .contoh3 {
+            grid-template-columns: 2fr 1fr;
+        }
+
+         /* Contoh 4 : Grid baris dan kolom */
+        .contoh4 {
+            grid-template-columns: repeat(2, 1fr);
+            grid-template-rows: 100px 150px;
+        }
+    </style>
+</head>
+<body>
+    
+</body>
+</html>
