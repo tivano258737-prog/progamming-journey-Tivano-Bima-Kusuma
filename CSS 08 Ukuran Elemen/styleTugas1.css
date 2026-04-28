@@ -1,0 +1,22 @@
+.judul {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.paragraf {
+    font-size: 20pt;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box1 {
+    width: 20cm;
+    height: 10cm;
+    margin-bottom: 50px;
+    background-color: red;
+}
+
+.box2 {
+    width: 10cm;
+    height: 5cm;
+    background-color: gold;
+}
