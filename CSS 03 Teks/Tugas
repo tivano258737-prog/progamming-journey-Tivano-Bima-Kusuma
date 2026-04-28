@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IBU KOTA NUSANTARA</title>
+    <style>
+        header{
+            text-align:center;
+            font-family: 'Times New Roman', Times, serif;
+            font-size: x-large;
+            font-weight: bold;
+        }
+         .underline {
+            text-decoration: underline;
+        }
+        .lower {
+            text-transform: lowercase;
+        }
+        .nowrap {
+            white-space: break-spaces;
+        }
+        h1{
+            color: cyan;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+        }
+        .text-justify {
+            text-align: justify;
+        }
+         .text-right {
+            text-align: right;
+        }
+        .text-left {
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <h1> IBU KOTA NUSANTARA </h1>
+    <img src="Logo IKN.jpeg"  width="200" style="float: right; width: 200px; height: auto;">
+    <div class="text-left">
+        <div class="text-justify"
+        <span class="underline">Ibu Kota Nusantara (IKN)</span>
+        merupakan proyek strategis nasional yang bertujuan memindahkan pusat pemerintahan Indonesia
+        dari Jakarta ke wilayah administratif Kabupaten Kutai Kartanegara di Kalimantan Timur.
+        Pemilihan lokasi ini didasari oleh visi "Indonesia-sentris" guna memeratakan pembangunan dan pertumbuhan ekonomi
+        yang selama ini sangat terpusat di Pulau Jawa. Selain itu, aspek keamanan menjadi pertimbangan utama,
+        mengingat Kalimantan memiliki risiko bencana alam seperti gempa bumi dan tsunami yang jauh lebih rendah dibandingkan wilayah Indonesia lainnya.</div>
+        <p>
+            <div class="text-center"
+            <span class="lower">Dalam pembangunannya, IKN mengusung konsep Smart Forest City atau kota hutan cerdas, di mana teknologi modern diintegrasikan dengan kelestarian alam.</span>
+            Pemerintah berkomitmen mempertahankan sekitar 70% wilayahnya sebagai ruang hijau guna menjaga ekologis hutan tropis Kalimantan.
+            Kota ini dirancang untuk menjadi kota yang sangat inklusif, berkelanjutan, dan efisien, dengan sistem transportasi publik yang dominan,
+            pemanfaatan energi terbarukan, serta infrastruktur digital yang mendukung birokrasi masa depan.</div>
+        </p>
+        <p class="indent">
+            <div class="text-right">
+                <h1>Point Utama Ibu Kota Nusantara</h1>
+                Ibu Kota Nusantara (IKN) adalah proyek pemindahan pusat pemerintahan Indonesia ke Kalimantan Timur yang mengusung visi Indonesia-sentris
+                untuk meratakan pembangunan dan mengurangi beban berat Pulau Jawa. Dibangun dengan konsep Smart Forest City, IKN memadukan teknologi modern
+                dengan kelestarian alam, di mana 70% kawasannya tetap berupa area hijau. Terletak di lokasi yang aman dari bencana geologis, IKN berfungsi
+                sebagai simbol identitas baru bangsa yang berkelanjutan, sementara Jakarta tetap diposisikan sebagai pusat bisnis dan keuangan global.
+            </div>
+        </p>
+</body>
+</html>

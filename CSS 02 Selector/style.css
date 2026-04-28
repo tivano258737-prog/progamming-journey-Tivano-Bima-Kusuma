@@ -1,0 +1,21 @@
+body {
+    background-color: white;
+    margin: 20px;
+}
+h1 {
+    color: aqua;
+    font-size: 50px;
+    text-align: center;
+}
+.Vano {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+* {
+    color: rgb(32, 210, 70);
+}
+#Tivano {
+    font-family: Arial, Helvetica, sans-serif;
+    color: gold;
+}
